@@ -1,0 +1,23 @@
+
+.background{
+    background-color: #c471f5;
+    background: linear-gradient(to right, #c471f5, #ff6b6b);
+    
+
+}
+
+.btn-features{
+    background: linear-gradient(to bottom, #d9d9d9, #bfbfbf);
+
+    color : #000;
+
+}
+.btn-myprojects{
+    background: linear-gradient(to bottom, #d9d9d9, #bfbfbf);
+    color : #000;
+}
+
+.btn-dsa{
+     background: linear-gradient(to bottom, #d9d9d9, #bfbfbf);
+    color : #000;
+}
